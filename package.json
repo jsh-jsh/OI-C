@@ -13,6 +13,11 @@
     "vue": "^3.3.4"
   },
   "devDependencies": {
+    "@fullcalendar/core": "^6.1.10",
+    "@fullcalendar/daygrid": "^6.1.10",
+    "@fullcalendar/interaction": "^6.1.10",
+    "@fullcalendar/timegrid": "^6.1.10",
+    "@fullcalendar/vue3": "^6.1.10",
     "@vue/cli-plugin-babel": "~5.0.8",
     "@vue/cli-plugin-eslint": "~5.0.8",
     "@vue/cli-service": "~5.0.8",
