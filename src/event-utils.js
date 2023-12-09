@@ -10,6 +10,13 @@ export const INITIAL_EVENTS = [
     url: 'https://codeforces.com/contests/1904',
     editable: 'false'
   }
+  {
+    id: createEventId(),
+    title: 'THUPU 初赛',
+    start: '20231217',
+    url: 'https://signup.thupc2024.thusaac.com/',
+    editable: 'false'
+  }
 ]
 
 export function createEventId() {
