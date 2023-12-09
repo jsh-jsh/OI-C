@@ -54,7 +54,7 @@ export const INITIAL_EVENTS = [
   },
   {
     id: createEventId(),
-    title: 'THUPU 初赛',
+    title: 'THUPC 初赛',
     start: '20231217',
     url: 'https://signup.thupc2024.thusaac.com/',
     editable: 'false'
