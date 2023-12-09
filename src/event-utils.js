@@ -6,7 +6,7 @@ export const INITIAL_EVENTS = [
   {
     id: createEventId(),
     title: 'Codeforces Round 914 (Div. 2)',
-    start: '20231210',
+    start: '20231210T000500Z',
     url: 'https://codeforces.com/contests/1904',
     editable: 'false'
   }
