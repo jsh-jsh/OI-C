@@ -6,7 +6,8 @@ export const INITIAL_EVENTS = [
   {
     id: createEventId(),
     title: 'All-day event',
-    start: todayStr
+    start: todayStr,
+    editable: 'false'
   },
   {
     id: createEventId(),
@@ -16,7 +17,7 @@ export const INITIAL_EVENTS = [
   {
     id: createEventId(),
     title: 'Codeforces Round 914 (Div. 2)',
-    start: '2023-12-10 T00:05:00',
+    start: '20231210',
     url: 'https://codeforces.com/contest/1904',
     editable: 'false'
   }
