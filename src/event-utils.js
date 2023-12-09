@@ -27,7 +27,7 @@ export const INITIAL_EVENTS = [
   {
     id: createEventId(),
     title: 'AtCoder Heuristic Contest 027',
-    start: '20231209',
+    start: '20231201',
     url: 'https://atcoder.jp/contests/ahc027/',
     editable: 'false'
   },
