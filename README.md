@@ -1,35 +1,23 @@
-# Vue.js
 
-This directory is a brief example of a [Vue.js](https://vuejs.org/) app that can be deployed to Vercel with zero configuration.
+# FullCalendar Vue 3 Example Project
 
-## Deploy Your Own
+This is a fully-buildable example project for FullCalendar and Vue 3, leveraging [Vite](https://github.com/vitejs/vite).
 
-Deploy your own Vue.js project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vue&template=vue)
+## Installation
 
-_Live Example: https://vue-template.vercel.app_
-
-## Running Locally
-
-```
-yarn install
+```bash
+git clone https://github.com/fullcalendar/fullcalendar-examples.git
+cd fullcalendar-examples/vue3
+npm install
 ```
 
-#### Compile and hot-reload for development
+## Build Commands
 
-```
-yarn serve
-```
+```bash
+npm run dev # builds and opens a web browser
 
-#### Compile and minify for production
-
-```
-yarn build
-```
-
-#### Lint and fix files
-
-```
-yarn lint
+# other commands:
+npm run build # builds files into dist/ directory
+npm run clean # start fresh
 ```
