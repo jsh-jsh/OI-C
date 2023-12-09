@@ -54,6 +54,41 @@ export const INITIAL_EVENTS = [
   },
   {
     id: createEventId(),
+    title: 'AtCoder Beginner Contest 332',
+    start: '20231210',
+    url: 'https://atcoder.jp/contests/abc332',
+    editable: 'false'
+  },
+  {
+    id: createEventId(),
+    title: 'AtCoder Beginner Contest 333',
+    start: '20231216',
+    url: 'https://atcoder.jp/contests/abc333',
+    editable: 'false'
+  },
+  {
+    id: createEventId(),
+    title: 'AtCoder Grand Contest 065',
+    start: '20231217',
+    url: 'https://atcoder.jp/contests/agc065',
+    editable: 'false'
+  },
+  {
+    id: createEventId(),
+    title: 'AtCoder Heuristic Contest 029',
+    start: '20231222',
+    url: 'https://atcoder.jp/contests/ahc029',
+    editable: 'false'
+  },
+  {
+    id: createEventId(),
+    title: 'AtCoder Beginner Contest 334',
+    start: '20231223',
+    url: 'https://atcoder.jp/contests/abc334',
+    editable: 'false'
+  },
+  {
+    id: createEventId(),
     title: 'THUPC 初赛',
     start: '20231217',
     url: 'https://signup.thupc2024.thusaac.com/',
