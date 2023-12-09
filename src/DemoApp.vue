@@ -81,7 +81,7 @@ export default defineComponent({
       <div class='demo-app-sidebar-section'>
         <h2>介绍</h2>
         <ul>
-          <li>为您的信竞之路助力</li>
+          <li>OI Calendar，提供清晰的编程竞赛日程。</li>
           <li>欢迎合作</li>
           <li>QQ:819433558</li>
         </ul>
