@@ -21,4 +21,10 @@ jobs:
       - run: pip install BeautifulSoup4
       - run: pip install chardet
       - run: python src/basgc.py
-      
+      - name: Push
+        run: |
+            git config jsh-jsh github-actions
+            git config jshzz2009@foxmail.com github-actions@github.com
+            git add .
+            git commit -m "update"
+            git push
