@@ -19,5 +19,6 @@ jobs:
       - run: pip install requests
       - run: pip install bs4
       - run: pip install BeautifulSoup4
+      - run: pip install chardet
       - run: python src/basgc.py
       
