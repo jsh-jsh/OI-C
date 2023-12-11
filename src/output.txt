@@ -1,0 +1,60 @@
+{
+  id: createEventId(),
+  title: ' 2024 New Year ICPC Challenge powered by Huawei ',
+  start:  1705042800 ,
+  url: 'https://codeforces.com/contests/1908
+},
+{
+  id: createEventId(),
+  title: ' Pinely Round 3 (Div. 1 + Div. 2) ',
+  start:  1703342100 ,
+  url: 'https://codeforces.com/contests/1909
+},
+{
+  id: createEventId(),
+  title: ' Codeforces Round (Div. 2) ',
+  start:  1702737300 ,
+  url: 'https://codeforces.com/contests/1905
+},
+{
+  id: createEventId(),
+  title: ' Kotlin Heroes: Episode 9 (Unrated, T-Shirts + Prizes!) ',
+  start:  1702305300 ,
+  url: 'https://codeforces.com/contests/1910
+},
+{
+  id: createEventId(),
+  title: ' Codeforces Round 914 (Div. 2) ',
+  start:  1702137900 ,
+  url: 'https://codeforces.com/contests/1904
+},
+{
+  id: createEventId(),
+  title: ' Codeforces Round 913 (Div. 3) ',
+  start:  1701787500 ,
+  url: 'https://codeforces.com/contests/1907
+},
+{
+  id: createEventId(),
+  title: ' Educational Codeforces Round 159 (Rated for Div. 2) ',
+  start:  1701614100 ,
+  url: 'https://codeforces.com/contests/1902
+},
+{
+  id: createEventId(),
+  title: ' 2023-2024 ICPC, Asia Jakarta Regional Contest (Online Mirror, Unrated, ICPC Rules, Teams Preferred) ',
+  start:  1701578100 ,
+  url: 'https://codeforces.com/contests/1906
+},
+{
+  id: createEventId(),
+  title: ' Kotlin Heroes: Practice 9 (release 2) ',
+  start:  1701440700 ,
+  url: 'https://codeforces.com/contests/1911
+},
+{
+  id: createEventId(),
+  title: ' Codeforces Round 912 (Div. 2) ',
+  start:  1701362100 ,
+  url: 'https://codeforces.com/contests/1903
+},
