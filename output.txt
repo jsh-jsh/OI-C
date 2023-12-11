@@ -18,7 +18,7 @@
 },
 {
   id: createEventId(),
-  title: ' Kotlin Heroes: Episode 9 ',
+  title: ' Kotlin Heroes: Episode 9 (Unrated, T-Shirts + Prizes!) ',
   start:  1702305300 ,
   url: 'https://codeforces.com/contests/1910
 },
