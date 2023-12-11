@@ -9,8 +9,7 @@ user_agent = [
     "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50",
 ]
 response = requests.get(url)
-print("jello")
-sys.stdout=open('output.txt', 'w')
+sys.stdout=open('src/output.txt', 'w')
 for i in range(10):
   print("{")
   print("  id: createEventId(),")
