@@ -21,27 +21,21 @@ export const INITIAL_EVENTS = [
 },
 {
   id: createEventId(),
-  title: ' 02:00, 17 December 2023 - algorithms ',
-  start: '2023-12-17T02:00:00+00:00',
-  url: 'https://csacademy.com/contest/algorithms-2023-12-17-2'
+  title: ' 05:00, 17 December 2023 - algorithms ',
+  start: '2023-12-17T05:00:00+00:00',
+  url: 'https://csacademy.com/contest/algorithms-2023-12-17-5'
 },
 {
   id: createEventId(),
-  title: ' Weekly Contest 376 ',
-  start: '2023-12-17T02:30:00+00:00',
-  url: 'https://leetcode.com/contest/weekly-contest-376'
+  title: ' 05:30, 17 December 2023 - interviews ',
+  start: '2023-12-17T05:30:00+00:00',
+  url: 'https://csacademy.com/contest/interviews-2023-12-17-5'
 },
 {
   id: createEventId(),
-  title: ' 02:30, 17 December 2023 - interviews ',
-  start: '2023-12-17T02:30:00+00:00',
-  url: 'https://csacademy.com/contest/interviews-2023-12-17-2'
-},
-{
-  id: createEventId(),
-  title: ' 03:00, 17 December 2023 - algorithms ',
-  start: '2023-12-17T03:00:00+00:00',
-  url: 'https://csacademy.com/contest/algorithms-2023-12-17-3'
+  title: ' 06:00, 17 December 2023 - algorithms ',
+  start: '2023-12-17T06:00:00+00:00',
+  url: 'https://csacademy.com/contest/algorithms-2023-12-17-6'
 },
 {
   id: createEventId(),
@@ -114,6 +108,12 @@ export const INITIAL_EVENTS = [
   title: ' Pinely Round 3 (Div. 1 + Div. 2) ',
   start: '2023-12-23T14:35:00+00:00',
   url: 'https://codeforces.com/contests'
+},
+{
+  id: createEventId(),
+  title: ' Weekly Contest 377 ',
+  start: '2023-12-24T02:30:00+00:00',
+  url: 'https://leetcode.com/contest/weekly-contest-377'
 },
 {
   id: createEventId(),
