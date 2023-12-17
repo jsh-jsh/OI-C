@@ -20,7 +20,7 @@ for i in response.json():
   print("{")
   print("  id: createEventId(),")
   print("  title: \'",i['name'],"\',")
-  print("  start: ",i['start_time'],",")
+  print("  start: ",i['start_time'].replace('-',''),",")
   print("  url: \'",i['link'],'\'',sep="")
   print("},")
 print("{}]")
