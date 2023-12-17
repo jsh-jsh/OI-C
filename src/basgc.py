@@ -12,7 +12,7 @@ ips = [
   {'https':'180.96.63.186:9087','http':'118.190.95.35:9001'}
 ] 
 response = requests.get(url)
-sys.stdout=open('src/output.txt', 'w')
+sys.stdout=open('src/event-utils.js', 'w')
 print("let eventGuid = 0")
 print("let todayStr = new Date().toISOString().replace(/T.*$/, \'\') // YYYY-MM-DD of today")
 print("export const INITIAL_EVENTS = [")
