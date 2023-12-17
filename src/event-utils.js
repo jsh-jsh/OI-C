@@ -3,9 +3,15 @@ let todayStr = new Date().toISOString().replace(/T.*$/, '') // YYYY-MM-DD of tod
 export const INITIAL_EVENTS = [
 {
   id: createEventId(),
-  title: ' 01:00, 17 December 2023 - algorithms ',
-  start:  2023-12-17T01:00:00+00:00 ,
-  url: 'https://csacademy.com/contest/algorithms-2023-12-17-1'
+  title: ' Past ZCO Problems ',
+  start:  2018-11-04T18:30:00+00:00 ,
+  url: 'https://www.codechef.com/ZCOPRAC'
+},
+{
+  id: createEventId(),
+  title: ' Past INOI Problems ',
+  start:  2019-01-04T18:30:00+00:00 ,
+  url: 'https://www.codechef.com/INOIPRAC'
 },
 {
   id: createEventId(),
