@@ -21,12 +21,6 @@ export const INITIAL_EVENTS = [
 },
 {
   id: createEventId(),
-  title: ' 01:30, 17 December 2023 - interviews ',
-  start: '2023-12-17T01:30:00+00:00',
-  url: 'https://csacademy.com/contest/interviews-2023-12-17-1'
-},
-{
-  id: createEventId(),
   title: ' 02:00, 17 December 2023 - algorithms ',
   start: '2023-12-17T02:00:00+00:00',
   url: 'https://csacademy.com/contest/algorithms-2023-12-17-2'
